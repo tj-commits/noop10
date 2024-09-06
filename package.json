@@ -1,0 +1,36 @@
+{
+  "name": "noop10",
+  "version": "1.0.0",
+  "description": "Noop module that actually uses an arrow function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "10x",
+    "noop",
+    "10",
+    "op"
+  ],
+  "author": "tj-commits",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "create-variable": "^2.0.0",
+    "exit": "^0.1.2",
+    "jquery": "^3.7.1",
+    "jquery-basic-arithmetic-plugin": "^1.1.0",
+    "kitty": "^2.0.4",
+    "literally": "^1.0.0",
+    "logtoconsole": "^1.0.7",
+    "lolcatjs": "^2.4.3",
+    "meaning-of-life": "^1.0.0",
+    "none": "^1.0.0",
+    "noop6": "^1.0.9",
+    "not": "^0.1.0",
+    "the-number-one": "^1.0.1",
+    "true": "^0.0.4",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
