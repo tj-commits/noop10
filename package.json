@@ -1,6 +1,6 @@
 {
   "name": "noop10",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Noop module that actually uses an arrow function.",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,11 @@
   ],
   "author": "tj-commits",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/tj-commits/noop10",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/noop10.git"
+  },
+  "bugs": "https://github.com/tj-commits/noop10/issues"
 }
