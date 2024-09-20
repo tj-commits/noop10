@@ -1,6 +1,6 @@
 {
   "name": "noop10",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Noop module that actually uses an arrow function.",
   "main": "index.js",
   "scripts": {
